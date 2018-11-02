@@ -1,6 +1,8 @@
 # Berg-Books-Page
 ## Description
-A simple web page built as an exercise in Web Design, HTML and CSS.   
+A simple web page built from the ground up as an exercise in Web Design, HTML and CSS.   
+
+
 Subject of web page is a detailed list of books by epic fantasy authour Carol Berg. 
 Contains: descriptions, reviews and links. 
 
