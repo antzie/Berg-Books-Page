@@ -1,5 +1,4 @@
 # Berg-Books-Page
-## Description
 A simple web page built from the ground up as an exercise in Web Design, HTML and CSS.   
 
 
